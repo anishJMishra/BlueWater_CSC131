@@ -29,8 +29,8 @@ const OrganizationButtons = (props) => {
                     onClose = {handleClose}
                     >
                     <Box 
-                        position="absolute"
-                        top = "30%"
+                        position = "absolute"
+                        top = "25%"
                         left = "36%"
                         sx = {{
                         backgroundColor: "#003987"
